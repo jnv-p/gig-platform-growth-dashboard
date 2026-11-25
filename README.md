@@ -8,7 +8,7 @@ A small React dashboard that analyses the acquisition funnels of a two-sided job
 
 ## Why I built it
 
-I am a second-year B.Tech student at IIT Guwahati. I built this to practise acquisition funnel analysis for a two-sided job and gig platform, where both employers and job seekers have to be acquired, activated and matched. It is a learning project, and I wanted to turn funnel analysis into something you can open and click through.
+I am a third-year B.Tech student at IIT Guwahati. I built this to practice acquisition funnel analysis for a two-sided job and gig platform, where both employers and job seekers have to be acquired, activated and matched. It is a learning project, and I wanted to turn funnel analysis into something you can open and click through.
 
 ## Features
 
